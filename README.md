@@ -1,10 +1,10 @@
 # Projects
 List Of projects By Me [Experimental and Educational purpose] 
 
-- [Pyrogram Example Bot](https://github.com/SpamShield/PyroGramBot) 
-- [Song-Downloader-Bot](https://github.com/MR-JINN-OF-TG/Song-Downloader-Bot)
-- [Sticker id Finder](https://github.com/MR-JINN-OF-TG/stickerid) 
-- [Service-regexlink-cleaner](https://github.com/MR-JINN-OF-TG/service-regexlink-cleaner) 
-
+- [Song-Downloader-Bot](https://github.com/JinnSulthan/Song-Downloader-Bot)
+- [Sticker id Finder](https://github.com/JinnSulthan/stickerid) 
+- [Service-regexlink-cleaner](https://github.com/JinnSulthan/service-regexlink-cleaner) 
+- [IndexList](https://github.com/JinnSulthan/IndexList) - <i> Just Created For Fun Will Complete Soon....</i>
+- [Telegram Bots List](https://github.com/JinnSulthan/TelegramBots) 
 
 <b> Learning Python </b> 
